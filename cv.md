@@ -33,3 +33,8 @@
     background-image: url("img/icon-phone-header.svg");
     }
     ```
+1. Work experience:\
+    No work experience.
+1. Education:
+    1. Belarusian National Technical University (Thermal power station).
+1. English: A2.
