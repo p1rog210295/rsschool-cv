@@ -13,3 +13,23 @@
     1. Basic knowledge of HTML
     2. Basic knowledge of CSS
     3. Basic knowledge of JavaScript
+1. Code exapmles:
+    ```
+    .page-header a {
+    margin-left: 56px;
+    color: #288be6;
+    text-decoration: none;
+    background-repeat: no-repeat;
+    background-position: left;
+    }
+
+    .header-email {
+    padding-left: 30px;
+    background-image: url("img/icon-email-header.svg");
+    }
+
+    header-phone {
+    padding-left: 25px;
+    background-image: url("img/icon-phone-header.svg");
+    }
+    ```
