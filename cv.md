@@ -8,4 +8,8 @@
     1. *Adress:* **Minsk, Belarus**
     1. *Marital status:* **single**
 1. Objective:\
-    Want to obtain a programmer profession (frontend developer). Have some personal qualities which would help me with this goal like *diligent,willingness to learn, calm, flexible, versatile*
+    Want to obtain a programmer profession (frontend developer). Have some personal qualities which would help me with this goal like *diligent,willingness to learn, calm, flexible, versatile*.
+1. Skills:
+    1. Basic knowledge of HTML
+    2. Basic knowledge of CSS
+    3. Basic knowledge of JavaScript
